@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+pypdf
